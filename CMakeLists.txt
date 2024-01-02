@@ -5,5 +5,5 @@ project(
   VERSION 0.1
   LANGUAGES CXX)
 
-add_executable(hellogit hellogit.cpp)
+add_executable(hello-git hello-git.cpp)
 
